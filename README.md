@@ -1,10 +1,10 @@
-<h2 align="left">Welcome to the world of Luís Carlos Martins Junior</h2>
+<h2 align="left">Ladies And Gentlemen</h2>
 <div>
 
 - I'm attending the first year of high school at Instituto Federal Catarinense Araquari
 - I'm a programming student
-- Iam to work with software development and database
-- How to reach me: @l.c.martinss (<a href="https://instagram.com/l.c.martinss?igshid=YmMyMTA2M2Y=">on Instragram</a>)<br/> - luís carlos martins junior (<a href="https://www.linkedin.com/in/lu%C3%ADs-carlos-martins-junior-896592247">on LinkedIn</a>)
+- I want to work with software development and database
+- How to reach me: @l.c.martinss (<a href="https://instagram.com/l.c.martinss?igshid=YmMyMTA2M2Y=">on Instragram</a>) // luís carlos martins junior (<a href="https://www.linkedin.com/in/lu%C3%ADs-carlos-martins-junior-896592247">on LinkedIn</a>)
 
 </div>
 
