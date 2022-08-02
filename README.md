@@ -1,4 +1,4 @@
-<h2 align="left">Ladies And Gentlemen</h2>
+<h2 align="left">Welcome to the world of Luís Carlos Martins Junior</h2>
 <div>
 
 - I'm attending the first year of high school at Instituto Federal Catarinense Araquari
