@@ -1,4 +1,4 @@
-<<div align="center">
+<div align="center">
   <a href="https://github.com/luisc5martins">
   <img height=200 align="center" src="https://github-readme-stats.vercel.app/api?username=luisc5martins&bg_color=30,141424,141424&title_color=fff&text_color=fff" />
 </a>
